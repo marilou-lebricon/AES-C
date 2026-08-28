@@ -1,6 +1,6 @@
 # Programmation d'AES en langage C
 
-Ce projet universitaire avait pour objectif de nous familiariser avec la lecture d'une documentation NIST décrivant un standard cryptographique, puis d'en tirer une implémentation en langage C.
+Ce projet universitaire (Master 1) avait pour objectif de nous familiariser avec la lecture d'une documentation NIST décrivant un standard cryptographique, puis d'en tirer une implémentation en langage C.
 
 Dans ce projet, j'ai travaillé sur l'implémentation de l'Advanced Encryption Standard (AES) à partir de la documentation officielle FIPS 197 publiée par le NIST.
 
