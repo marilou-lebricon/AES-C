@@ -1,4 +1,4 @@
-# Programmation en C d'AES
+# Programmation d'AES en langage C
 
 Ce projet universitaire avait pour objectif de nous familiariser avec la lecture d'une documentation NIST décrivant un standard cryptographique, puis d'en tirer une implémentation en langage C.
 
