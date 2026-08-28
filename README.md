@@ -8,4 +8,4 @@ Dans ce projet, j'ai travaillé sur l'implémentation de l'Advanced Encryption S
 https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf
 
 **Voici un extrait de la consigne :**
-"Au minimum, votre programme doit être capable de chiffrer un document (de taille quelconque) en mode ECB avec une clé de 128 bits choisie par l'utilisateur (par défaut 0x000102030405060708090a0b0c0d0e0f). Au plus, votre programme peut chirer et déchiffrer un document en mode ECB, CBC, CFB (ou OFB) et GCM (choisi par l'utilisateur) avec une clé de taille 128, 192 ou 256 bits."
+"Au minimum, votre programme doit être capable de chiffrer un document (de taille quelconque) en mode ECB avec une clé de 128 bits choisie par l'utilisateur (par défaut 0x000102030405060708090a0b0c0d0e0f). Au plus, votre programme peut chiffrer et déchiffrer un document en mode ECB, CBC, CFB (ou OFB) et GCM (choisi par l'utilisateur) avec une clé de taille 128, 192 ou 256 bits."
