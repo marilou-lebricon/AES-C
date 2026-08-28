@@ -1,0 +1,6 @@
+*.o
+*.gch
+aes
+*.enc
+*.dec
+test.txt

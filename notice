@@ -1,0 +1,5 @@
+1 - Ouvrir un terminal
+2 - Se trouver dans le dossier : marilou_lebricon/aes_project
+3 - Ouvrir un terminal et entrer la commande : make
+4 - entrer ensuite la commande : ./aes <nom du fichier à tester>       (par exemple : ./aes alice.sage)
+5 - Suivre les commandes demandées dans le terminal (si erreur, suivre la commande demandée ou recommencer)
